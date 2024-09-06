@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/order-summary-card-html-sass-9wHOwWOIWk)
 - Live Site URL: [Live site URL here](https://limsael.github.io/order-summary-card/)
 
 ## My process
